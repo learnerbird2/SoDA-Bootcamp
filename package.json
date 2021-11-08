@@ -1,0 +1,22 @@
+{
+  "name": "sodabootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learnerbird2/SoDA-Bootcamp.git"
+  },
+  "author": "ASU SoDA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learnerbird2/SoDA-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/learnerbird2/SoDA-Bootcamp#readme",
+  "dependencies": {
+    "sodabootcamp": "^1.2.1"
+  }
+}
